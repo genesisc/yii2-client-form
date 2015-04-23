@@ -1,0 +1,21 @@
+{
+    "name": "genesisc/yii2-client-form",
+    "description": "Widget for Landing Pages",
+    "type": "yii2-extension",
+    "keywords": ["yii2","landing page","client form"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "genesisc",
+            "email": "e@genesis.kz"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "genesisc\\clientForm\\": ""
+        }
+    }
+}
